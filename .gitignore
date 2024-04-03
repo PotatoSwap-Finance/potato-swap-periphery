@@ -2,3 +2,8 @@ build/
 node_modules/
 yarn.lock
 .DS_Store
+hardhat.config.js
+scripts/deploy.js
+artifacts/
+cache/
+.env
